@@ -62,4 +62,3 @@ cp .env.example .env.local   # then set API_ENV=local for local backend dev
 ## Before launch
 
 - Replace placeholder app-store links in `app/page.tsx` (`#download`).
-- Update `SITE_URL` in `app/layout.tsx` to the production domain.

@@ -118,8 +118,8 @@ not inject unsanitized HTML).
 
 - **Download links** in the `#download` section of `app/page.tsx` are `#`
   placeholders — replace with real App Store / Google Play URLs.
-- **`SITE_URL`** in `app/layout.tsx` is `https://mcard-web.vercel.app` — update to
-  the production/custom domain so canonical and OpenGraph URLs are correct.
+- **`SITE_URL`** in `app/layout.tsx` is `https://mrcard.com.tw` (the production
+  custom domain) — used for canonical and OpenGraph URLs.
 - Content is Traditional Chinese (zh-TW). If an English locale is later needed,
   add it via Next.js i18n routing rather than duplicating pages by hand.
 
