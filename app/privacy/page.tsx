@@ -5,7 +5,7 @@ import { getLegalDocument } from "@/lib/api";
 
 export const metadata: Metadata = {
   title: "隱私權政策",
-  description: "名片先生（M.Card）如何收集、使用、分享與保護您的個人資料。",
+  description: "名片先生（Mr.Card）如何收集、使用、分享與保護您的個人資料。",
 };
 
 // Legal content is fetched from the backend; revalidate periodically.
@@ -56,8 +56,8 @@ function PrivacyFallback() {
   return (
     <div className="prose-legal mt-10">
       <p>
-        本隱私權政策說明<strong>名片先生（M.Card）</strong>團隊（以下稱「我們」）
-        在您使用名片先生（M.Card）行動應用程式及相關網站與服務
+        本隱私權政策說明<strong>名片先生（Mr.Card）</strong>團隊（以下稱「我們」）
+        在您使用名片先生（Mr.Card）行動應用程式及相關網站與服務
         （合稱「本服務」）時，如何收集、使用、揭露與保護您的資料。
         使用本服務即表示您同意本政策所述之做法。
       </p>
@@ -165,7 +165,7 @@ function PrivacyFallback() {
       <h2>10. 聯絡我們</h2>
       <p>若您對本隱私權政策或您的資料有任何疑問，請聯繫：</p>
       <ul>
-        <li>名片先生 M.Card 團隊</li>
+        <li>名片先生 Mr.Card 團隊</li>
         <li>電子郵件：<a href="mailto:mrcard.tw@gmail.com">mrcard.tw@gmail.com</a></li>
       </ul>
 

@@ -1,6 +1,6 @@
-# M.Card Website (`mcard-web`)
+# Mr.Card Website (`mcard-web`)
 
-Public marketing & **OAuth-verification** site for the **名片先生 (M.Card)** digital
+Public marketing & **OAuth-verification** site for the **名片先生 (Mr.Card)** digital
 business card app, built with Next.js 15 + Tailwind CSS v4 and deployed on Vercel.
 Content is in Traditional Chinese (zh-TW).
 
