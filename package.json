@@ -2,7 +2,7 @@
   "name": "mcard-web",
   "version": "0.1.0",
   "private": true,
-  "description": "Marketing & verification website for MCard (RenMaiTong / 人脈通) digital business card app",
+  "description": "Marketing & verification website for M.Card (RenMaiTong / 人脈通) digital business card app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

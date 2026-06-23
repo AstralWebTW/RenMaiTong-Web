@@ -14,7 +14,7 @@ function Logo() {
     <Link href="/" className="flex items-center gap-2.5">
       <BrandMark className="h-8 w-auto max-w-[120px] object-contain" />
       <span className="text-lg font-semibold tracking-tight">
-        名片先生 <span className="text-muted font-normal">MCard</span>
+        名片先生 <span className="text-muted font-normal">M.Card</span>
       </span>
     </Link>
   );

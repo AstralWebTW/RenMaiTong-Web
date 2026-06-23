@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Overview
 
 **mcard-web** — the public marketing and **OAuth-verification** website for the
-**名片先生 (MCard / RenMaiTong)** digital business card app. Its primary job is to
+**名片先生 (M.Card / RenMaiTong)** digital business card app. Its primary job is to
 satisfy Google Cloud Console's requirement that an app using Google Sign-In expose
 a public **homepage**, **Privacy Policy**, and **Terms of Service** before the OAuth
 consent screen can be verified. It is also the product's marketing landing page.
@@ -48,7 +48,7 @@ There is no test suite — verify changes by running `npm run dev` and checking
   `/contact`, `app/privacy/page.tsx` → `/privacy`, `app/terms/page.tsx` → `/terms`.
 - **Language:** all content is **Traditional Chinese (zh-Hant-TW)** to match the
   app's default locale. `<html lang>` is set in `app/layout.tsx`. The Chinese
-  product name is **名片先生** (kept alongside the "MCard" wordmark).
+  product name is **名片先生** (kept alongside the "M.Card" wordmark).
 - The homepage's **highlight feature is the AI assistant** — it has its own
   spotlight section (`AiSpotlight` in `app/page.tsx`, anchor `#ai`) above the
   general feature grid. Keep it visually distinct from the other features.

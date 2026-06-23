@@ -1,7 +1,7 @@
-# Product Requirements Document — MCard Marketing & Verification Website
+# Product Requirements Document — M.Card Marketing & Verification Website
 
-**Product:** 名片先生 MCard marketing website (`mcard-web`)
-**Owner:** 名片先生 MCard
+**Product:** 名片先生 M.Card marketing website (`mcard-web`)
+**Owner:** 名片先生 M.Card
 **Status:** v1
 **Last updated:** 2026-06-22
 
@@ -9,7 +9,7 @@
 
 ## 1. Background
 
-名片先生 / MCard (internal name **RenMaiTong**, bundle ID `com.astralweb.renmaitong`) is a
+名片先生 / M.Card (internal name **RenMaiTong**, bundle ID `com.astralweb.renmaitong`) is a
 cross-platform .NET MAUI app for digital business cards and professional network
 management. The mobile app uses **Google Sign-In** as an authentication option.
 
@@ -61,7 +61,7 @@ for the product.
 
 ### 5.2 Homepage content
 
-- **Hero** — product name (名片先生 / MCard), one-line value prop, a stylized
+- **Hero** — product name (名片先生 / M.Card), one-line value prop, a stylized
   digital-card mockup (not a screenshot), download CTAs, supported-platform note.
 - **AI assistant spotlight (小脈)** — the **highlight feature**, given its own
   dedicated section (capability bullets + an autoplaying app screen-recording of

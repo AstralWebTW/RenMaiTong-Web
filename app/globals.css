@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* ---- MCard design tokens (mirrors the app's Colors.xaml) ---- */
+/* ---- M.Card design tokens (mirrors the app's Colors.xaml) ---- */
 @theme {
   --color-ink: #080808;
   --color-ink-soft: #0f0f12;

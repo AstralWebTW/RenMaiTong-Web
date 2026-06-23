@@ -7,7 +7,7 @@ export default function SiteFooter() {
         <div className="flex flex-col justify-between gap-8 md:flex-row">
           <div className="max-w-sm">
             <div className="text-lg font-semibold">
-              名片先生 <span className="text-muted font-normal">MCard</span>
+              名片先生 <span className="text-muted font-normal">M.Card</span>
             </div>
             <p className="mt-3 text-sm leading-relaxed text-muted">
               專為現代專業人士打造的智慧數位名片。分享、掃描、拓展人脈——盡在您的手機。
@@ -39,15 +39,15 @@ export default function SiteFooter() {
                     mrcard.tw@gmail.com
                   </a>
                 </li>
-                <li>名片先生 MCard</li>
+                <li>名片先生 M.Card</li>
               </ul>
             </div>
           </div>
         </div>
 
         <div className="mt-10 flex flex-col items-center justify-between gap-4 border-t border-line/60 pt-6 text-xs text-muted sm:flex-row">
-          <span>© {new Date().getFullYear()} 名片先生 MCard 版權所有。</span>
-          <span>名片先生 MCard · 為台灣與各地專業人士打造</span>
+          <span>© {new Date().getFullYear()} 名片先生 M.Card 版權所有。</span>
+          <span>名片先生 M.Card · 為台灣與各地專業人士打造</span>
         </div>
       </div>
     </footer>

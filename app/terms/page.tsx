@@ -5,7 +5,7 @@ import { getLegalDocument } from "@/lib/api";
 
 export const metadata: Metadata = {
   title: "服務條款",
-  description: "規範您使用名片先生（MCard）App 與服務之條款。",
+  description: "規範您使用名片先生（M.Card）App 與服務之條款。",
 };
 
 // Legal content is fetched from the backend; revalidate periodically.
@@ -56,8 +56,8 @@ function TermsFallback() {
   return (
     <div className="prose-legal mt-10">
       <p>
-        本服務條款（以下稱「本條款」）規範您存取及使用由<strong>名片先生（MCard）</strong>
-        團隊（以下稱「我們」）提供之名片先生（MCard）
+        本服務條款（以下稱「本條款」）規範您存取及使用由<strong>名片先生（M.Card）</strong>
+        團隊（以下稱「我們」）提供之名片先生（M.Card）
         行動應用程式、網站及相關服務（以下稱「本服務」）。
         一旦您建立帳號或使用本服務，即表示您同意本條款。若您不同意，請勿使用本服務。
       </p>

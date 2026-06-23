@@ -4,7 +4,7 @@ import SiteFooter from "../components/SiteFooter";
 
 export const metadata: Metadata = {
   title: "聯絡我們",
-  description: "與名片先生（MCard）團隊聯繫——客戶支援、隱私與資料請求、商務合作。",
+  description: "與名片先生（M.Card）團隊聯繫——客戶支援、隱私與資料請求、商務合作。",
 };
 
 const channels = [
@@ -79,7 +79,7 @@ export default function ContactPage() {
           <dl className="mt-5 grid gap-5 text-sm sm:grid-cols-2">
             <div>
               <dt className="text-muted">服務名稱</dt>
-              <dd className="mt-1 text-white">名片先生 MCard</dd>
+              <dd className="mt-1 text-white">名片先生 M.Card</dd>
             </div>
             <div>
               <dt className="text-muted">產品</dt>

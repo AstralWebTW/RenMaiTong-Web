@@ -168,7 +168,7 @@ export default function Home() {
                 </span>
               </h1>
               <p className="mt-5 max-w-md text-lg leading-relaxed text-muted">
-                名片先生（MCard）幫您掃描名片、調查背景、記錄互動，
+                名片先生（M.Card）幫您掃描名片、調查背景、記錄互動，
                 並由 AI 助理「小脈」把這一切整理成洞察，協助您經營每一段人脈。
               </p>
               <div className="mt-8 flex flex-wrap gap-3" id="download">

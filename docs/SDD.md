@@ -1,4 +1,4 @@
-# Software Design Document — MCard Marketing Website (`mcard-web`)
+# Software Design Document — M.Card Marketing Website (`mcard-web`)
 
 **Last updated:** 2026-06-22
 **Companion to:** `docs/PRD.md`
@@ -106,7 +106,7 @@ which keeps the bundle tiny and avoids network requests for assets.
 - Root `metadata` in `layout.tsx`: title template, description, keywords, OpenGraph,
   Twitter card, `robots: index/follow`, and `metadataBase`.
 - Per-page `metadata` exports on `/privacy` and `/terms` set page titles via the
-  `%s · MCard` template.
+  `%s · M.Card` template.
 - `app/icon.svg` provides the favicon automatically.
 
 > ⚠️ Update `SITE_URL` in `app/layout.tsx` once the production domain is known so
